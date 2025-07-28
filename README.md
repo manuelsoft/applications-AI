@@ -14,3 +14,7 @@ page will automatically update the time for each listed zone every second.
 The `peruvian-cooking-websites` folder contains a small web page that lists a
 few popular sites for exploring Peruvian cuisine. Open
 `peruvian-cooking-websites/index.html` in your browser to see the links.
+
+## Cybersecurity News App
+
+The `cybersecurity-news-app` directory contains a very small web application that serves an HTML page with placeholder text for cybersecurity news. It uses Node's built-in `http` module so it works offline. Run it with `npm start` inside that folder and visit `http://localhost:3000` in your browser.
