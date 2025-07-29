@@ -17,7 +17,7 @@ function App() {
 
       <section>
         <h2>Contáctanos</h2>
-        <p>Escríbenos a <a href="mailto:contacto@tudominio.com">contacto@tudominio.com</a></p>
+        <p>Escríbenos a <a href="mailto:mpajuelo35@gmail.com">mpajuelo35@gmail.com</a></p>
       </section>
 
       <footer>
