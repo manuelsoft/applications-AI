@@ -18,3 +18,11 @@ few popular sites for exploring Peruvian cuisine. Open
 ## Cybersecurity News App
 
 The `cybersecurity-news-app` directory contains a very small web application that serves an HTML page with placeholder text for cybersecurity news. It uses Node's built-in `http` module so it works offline. Run it with `npm start` inside that folder and visit `http://localhost:3000` in your browser.
+
+## ENTILABS Landing Page
+
+The `entilabs-web-app` folder contains a simple React front‑end that introduces
+ENTILABS, una empresa enfocada en desarrollo de aplicaciones, automatización de
+procesos críticos y agentes de IA. Abre `entilabs-web-app/index.html` en tu
+navegador para ver el anuncio de lanzamiento y la información de contacto. El
+sitio usa las fuentes Poppins e Inter y un diseño minimalista en colores suaves.
