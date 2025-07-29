@@ -21,7 +21,8 @@ The `cybersecurity-news-app` directory contains a very small web application tha
 
 ## ENTILABS Landing Page
 
-The `entilabs-web-app` folder contains a basic React front‑end that introduces
-ENTILABS, a company focused on application development, automation of critical
-processes and AI agents. Open `entilabs-web-app/index.html` in your browser to
-view the announcement and contact information.
+The `entilabs-web-app` folder contains a simple React front‑end that introduces
+ENTILABS, una empresa enfocada en desarrollo de aplicaciones, automatización de
+procesos críticos y agentes de IA. Abre `entilabs-web-app/index.html` en tu
+navegador para ver el anuncio de lanzamiento y la información de contacto. El
+sitio usa las fuentes Poppins e Inter y un diseño minimalista en colores suaves.

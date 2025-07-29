@@ -1,12 +1,14 @@
 function App() {
   return (
-    <div>
+    <main id="container">
       <h1>ENTILABS</h1>
-      <p>Nos especializamos en desarrollo de aplicaciones, automatización de procesos críticos y agentes de IA. Aplicamos la seguridad en todas las fases del desarrollo.</p>
-      <p><strong>¡Lanzamiento próximo!</strong></p>
+      <p>Especialistas en desarrollo de aplicaciones, automatización de procesos críticos y agentes de IA.</p>
+      <p className="tagline">Aplicamos la seguridad en todas las fases del desarrollo.</p>
+      <p className="launch">¡Lanzamiento próximamente!</p>
       <p>Contacto: <a href="mailto:mpajuelo35@gmail.com">mpajuelo35@gmail.com</a></p>
-    </div>
+    </main>
   );
 }
 
-ReactDOM.render(<App />, document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<App />);
